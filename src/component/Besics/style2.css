@@ -1,0 +1,16 @@
+
+.head{
+    text-align: center;
+    background-color: powderblue;
+}
+.b{
+  border-radius: 1rem;
+  font-size: 2rem;
+  background-color: blue;
+}
+.img{
+  border-radius: 2rem;
+}
+.button{
+  border-radius: 2rem;
+}
